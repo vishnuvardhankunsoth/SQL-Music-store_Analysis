@@ -3,7 +3,7 @@
 Data Analysis for Digital Music Store using SQL
 
 Objective:
-This project analyzes the music playlist database. examine the data set with SQL and help the store understand its business growth by answering simple questions
+This project analyzes the music playlist database. examine the data set with SQL and help the store understand its business growth by answering simple questions.
 
 Project Key points:
 1. schema diagram (E-R Diagrams)
